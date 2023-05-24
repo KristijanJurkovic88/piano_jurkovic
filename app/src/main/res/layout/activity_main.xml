@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button2"
+        style="?android:attr/buttonBarButtonStyle"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="312dp"
+        tools:layout_editor_absoluteY="60dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="43dp"
+        android:layout_height="246dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="363dp"
+        tools:layout_editor_absoluteY="60dp" />
+</LinearLayout>
